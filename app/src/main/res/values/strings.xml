@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings" />
+    <string name="search_hint">Find Contact</string>
+    <string name="add_name">姓名</string>
+    <string name="add_phone">电话</string>
+    <string name="ann_email">邮箱</string>
+    <string name="details_phone">phone</string>
+
+
+    <string-array name="tab_titles">
+        <item>常用</item>
+        <item>all</item>
+    </string-array>
+</resources>
